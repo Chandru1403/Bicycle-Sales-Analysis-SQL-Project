@@ -5,7 +5,8 @@ It demonstrates the use of **joins, aggregations, subqueries, and window functio
 
 
 
- Business Questions
+
+** Business Questions**
 The project answers the following **17 business questions**:
 
 1. Which are the top 3 regions by number of orders?  
@@ -28,7 +29,7 @@ The project answers the following **17 business questions**:
 
 
 
-SQL Skills Demonstrated
+**SQL Skills Demonstrated**
 - Database schema design (`CREATE`, `ALTER`, `PRIMARY KEY`, `FOREIGN KEY`)  
 - Data cleaning (`UPDATE`, `CONCAT`, `ALTER TABLE`)  
 - Joins: `INNER JOIN`, `LEFT JOIN`  
