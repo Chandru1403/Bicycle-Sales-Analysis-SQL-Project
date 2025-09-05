@@ -1,5 +1,5 @@
 # Bicycle-Sales-Analysis-SQL-Project
-This project analyzes bicycle sales data (2020–2022) using SQL to answer **17 business questions**.  
+This project analyzes bicycle sales data  using SQL to answer **17 business questions**.  
 The goal was to explore **sales performance, profit margins, customer behavior, returns, and regional trends**.  
 It demonstrates the use of **joins, aggregations, subqueries, and window functions** for real-world business insights.
 
