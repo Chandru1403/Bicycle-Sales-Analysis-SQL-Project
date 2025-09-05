@@ -78,7 +78,7 @@ INSERT INTO sales (
 
 DESCRIBE customers;
 
--- Sales & Revenue Analysis
+
 
 
 -- 1. Top 3 Regions by Number of Orders
