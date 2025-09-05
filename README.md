@@ -7,6 +7,7 @@ It demonstrates the use of **joins, aggregations, subqueries, and window functio
 
 
 **Business Questions**
+
 The project answers the following **17 business questions**:
 
 1. Which are the top 3 regions by number of orders?  
